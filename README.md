@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dragonsline
+- 👋 Hi, I’m @drazter
 - 👀 I’m interested in coffee making, roast degree analysis, fermentation tank control
 - 🌱 I’m currently learning python + machine learning, raspberry pi, 3D printing and using Octoprint
 - 💞️ I’m looking to collaborate on color sorting machine for coffee defect detection
